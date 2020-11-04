@@ -1,0 +1,19 @@
+.chart div {
+  font: 10px sans-serif;
+  background-color: rgb(223, 17, 79);
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+}
+
+
+
+#dashboard {
+  width: 320px;
+  border: 1px solid black;
+}
+
+p {
+  text-align: center;
+}
